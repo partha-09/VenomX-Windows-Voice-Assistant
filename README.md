@@ -2,7 +2,7 @@
 VenomX is a cutting-edge voice assistant built for Windows, utilizing AI technologies to perform a variety of tasks based on voice commands. 
 It integrates NLP for task execution, real-time object detection using YOLO,and provides multiple utilities like system control, automation,
 and entertainment. The project is designed to demonstrate the power of voice interaction on Windows systems.
-
+---
 ### 🌟 Key Features
 1. Voice Interaction: Listens to and processes user commands via voice input using a microphone. Responds using text-to-speech (TTS) with customizable voices and rates.
 2. Greeting System: Greets the user based on the time of day (morning, afternoon, evening). Provides friendly and conversational responses to user greetings and queries.
@@ -24,7 +24,7 @@ and entertainment. The project is designed to demonstrate the power of voice int
 18.  Alerts users about system activities like updates, alarms, or scheduled tasks.
 19. Customization and Extensibility: Fully modular design, allowing easy addition of new features (e.g., ML models). Flexible and adaptable code for future scaling.
 20. News and Weather Updates: Retrieves the latest news headlines by category (business, health, sports, etc.) using News API. Provides weather forecasts for any location via OpenWeatherMap API.
-
+---
 ### 🛠️ Tech Stack
 - **Backend**: Python
 - **AI/ML**: YOLOv5 (Object Detection), NLP (Natural Language Processing)
@@ -42,7 +42,7 @@ and entertainment. The project is designed to demonstrate the power of voice int
   - News API (for news updates)
   - Gmail API (for sending emails)  
   - WhatsApp API (for sending messages)
-    
+  --- 
 ### 🚀How to Run
 
 ### 1. Clone the Repository
@@ -89,13 +89,13 @@ Once the script is running, speak the desired commands, and VenomX will help you
 - speech-recognition
 - voice-command-assistant
 - real-time-detection
-
+---
 🏆 **Recognition**
 1. **First Prize** at the **College-Level Project Exhibition** at Hirasugar Institute of Technology.
 2. **Best Project of the Year 2024** at the ** Annual State-Level Project Exhibition**,held in Kalaburagi in August 2024 by the Karnataka State Council for Science and Technology.
   - **KSCST CERTIFICATE**
    ![image alt](https://github.com/partha-09/VenomX-Windows-Voice-Assistant/blob/3d5c4baf9e20254ef2c30a73fa5f77c05b2553f2/KSCST.jpg)
-
+---
 ### 📬 Contact:
 
 For any queries:
@@ -105,7 +105,7 @@ For any queries:
 - **Phone**: +91 6363504679
 - **LinkedIn**: [https://www.linkedin.com/in/siddappagodi/](https://www.linkedin.com/in/siddappagodi/)
 
-
+---
 ## ⭐ Contribute
 
 I welcome contributions to improve this project! If you find this project helpful or see any areas for enhancement, feel free to:
